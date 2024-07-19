@@ -37,27 +37,6 @@ Esta aplicación es una aplicación de escritorio desarrollada en JavaFX que mue
     String password = "admi123";
     ```
 
-3. **Configurar el proyecto:**
-
-    Si estás utilizando Maven, asegúrate de que tu `pom.xml` incluya las dependencias necesarias para JavaFX y PostgreSQL:
-
-    ```xml
-    <dependencies>
-        <!-- JavaFX -->
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>17.0.1</version>
-        </dependency>
-        <!-- PostgreSQL JDBC Driver -->
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.3.1</version>
-        </dependency>
-    </dependencies>
-    ```
-
 ## Uso
 
 1. **Ejecutar la aplicación:**
