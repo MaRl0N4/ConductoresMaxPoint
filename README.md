@@ -1,4 +1,4 @@
-# Driver Points Application
+# Drivers Max Points App
 
 ## Descripción
 
@@ -76,7 +76,7 @@ Esta aplicación es una aplicación de escritorio desarrollada en JavaFX que mue
 
 ## Imagen de la ejecución de la app
 
-![Screenshot](ruta/a/la/imagen.png)
+![Screenshot](https://github.com/MaRl0N4/ConductoresMaxPoint/blob/910214f23009e5d33091b03c3bf8999c29ca13a6/Captura%20de%20pantalla%20(493).png)
 
 ## Estructura del Proyecto
 
